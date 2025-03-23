@@ -1,4 +1,4 @@
-﻿/////////////////////////////////////////////////////////////////
+app.preferences.setBooleanPreference("ShowExternalJSXWarning", false)﻿/////////////////////////////////////////////////////////////////
 //Select Paths By Size v.4.1.1.0 -- CS, CS2, CS3,CS4 (Change extension from 'jsx' to 'js' to run in CS)
 //>=--------------------------------------
 //   Selects all Path Objects, smaller/larger than given threshold
